@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## String
+|  |
+| ------- |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 <!---LeetCode Topics End-->
