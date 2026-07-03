@@ -1,26 +1,18 @@
 class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
-        int currMax = 0 , maxSum = INT_MIN;
-        int currMin = 0 , minSum= INT_MAX;
+        int maxEnding = nums[0], minEnding = nums [0];
+        int maxSum = nums[0] , minSum= nums[0];
 
-        for (int val : nums){
-            currMax += val;
-            maxSum = max(currMax , maxSum);
+        for (int i =1 ; i <nums.size(); i++){
+            maxEnding = max(nums[i], maxEnding + nums[i]);
+            maxSum = max(maxEnding , maxSum);
 
-            if(currMax < 0){
-                currMax = 0;
-            }
-            currMin += val;
-            minSum = min(currMin, minSum);
-
-            if(currMin > 0){
-                currMin = 0;
-            }
-
-
-
+            minEnding = min(nums[i], minEnding + nums[i]);
+            minSum = min(minEnding , minSum);
         }
-        return max(maxSum, abs(minSum));
+
+        return max(maxSum , abs(minSum));
+        
     }
 };
