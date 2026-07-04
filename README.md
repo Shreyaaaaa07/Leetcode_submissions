@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,8 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
