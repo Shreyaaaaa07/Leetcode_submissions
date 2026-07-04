@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
