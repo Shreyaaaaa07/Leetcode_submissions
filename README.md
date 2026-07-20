@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
