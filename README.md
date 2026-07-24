@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
