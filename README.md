@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
