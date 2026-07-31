@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0268-missing-number) |
 ## Counting
 |  |
