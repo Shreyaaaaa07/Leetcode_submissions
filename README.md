@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
