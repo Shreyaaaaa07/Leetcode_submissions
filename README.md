@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -262,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
