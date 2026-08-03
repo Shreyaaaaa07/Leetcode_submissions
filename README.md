@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -245,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0876-middle-of-the-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shreyaaaaa07/Leetcode_submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
